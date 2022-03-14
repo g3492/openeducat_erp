@@ -120,7 +120,7 @@ msgstr "Líneas de Instalación"
 #. module: openeducat_classroom
 #: model_terms:ir.ui.view,arch_db:openeducat_classroom.view_op_classroom_search
 msgid "Group By..."
-msgstr "Arupar por..."
+msgstr "Agrupar por..."
 
 #. module: openeducat_classroom
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_asset__id
@@ -160,7 +160,7 @@ msgstr "Nombre"
 #. module: openeducat_classroom
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_classroom__capacity
 msgid "No of Person"
-msgstr "No de la persona"
+msgstr "Capacidad"
 
 #. module: openeducat_classroom
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_asset__product_id
