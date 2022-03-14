@@ -18,17 +18,17 @@ msgstr ""
 #. module: openeducat_admission
 #: model_terms:ir.ui.view,arch_db:openeducat_admission.report_admission_analysis
 msgid "<b>Course : </b>"
-msgstr "<B> Curso: </ b>"
+msgstr "<B> Carrera/Curso: </ b>"
 
 #. module: openeducat_admission
 #: model_terms:ir.ui.view,arch_db:openeducat_admission.report_admission_analysis
 msgid "<b>From Date: </b>"
-msgstr "<B> Desde Fecha: </ b>"
+msgstr "<b>Desde Fecha: </ b>"
 
 #. module: openeducat_admission
 #: model_terms:ir.ui.view,arch_db:openeducat_admission.report_admission_analysis
 msgid "<b>To Date:</b>"
-msgstr "<B> Para Fecha: </ b>"
+msgstr "<b>Hasta Fecha: </ b>"
 
 #. module: openeducat_admission
 #: model_terms:ir.ui.view,arch_db:openeducat_admission.report_admission_analysis
@@ -42,7 +42,7 @@ msgstr ""
 #. module: openeducat_admission
 #: model_terms:ir.ui.view,arch_db:openeducat_admission.report_admission_analysis
 msgid "<strong>Admission Analysis</strong>"
-msgstr "<Strong> Análisis Admisión </ strong>"
+msgstr "<Strong>Análisis Admisión </ strong>"
 
 #. module: openeducat_admission
 #: model:ir.model.fields,field_description:openeducat_admission.field_op_admission_register__academic_years_id
@@ -95,40 +95,40 @@ msgstr "Admisión"
 #: model:ir.actions.report,name:openeducat_admission.action_report_report_admission_analysis
 #: model_terms:ir.ui.view,arch_db:openeducat_admission.admission_analysis_form
 msgid "Admission Analysis"
-msgstr "Análisis de admisión"
+msgstr "Análisis de Admisión"
 
 #. module: openeducat_admission
 #: model:ir.actions.act_window,name:openeducat_admission.admission_analysis_act
 #: model:ir.model,name:openeducat_admission.model_report_openeducat_admission_report_admission_analysis
 msgid "Admission Analysis Report"
-msgstr "Informe de análisis de admisión"
+msgstr "Informe de Análisis de Admisión"
 
 #. module: openeducat_admission
 #: model:ir.model,name:openeducat_admission.model_admission_analysis
 msgid "Admission Analysis Wizard"
-msgstr "Asistente para el análisis de admisión"
+msgstr "Asistente para el Análisis de Admisión"
 
 #. module: openeducat_admission
 #: model:ir.model.fields.selection,name:openeducat_admission.selection__op_admission__state__admission
 #: model_terms:ir.ui.view,arch_db:openeducat_admission.view_op_admission_form
 msgid "Admission Confirm"
-msgstr "Confirmar la admisión"
+msgstr "Confirmar la Admisión"
 
 #. module: openeducat_admission
 #: model:ir.model.fields,field_description:openeducat_admission.field_op_admission__admission_date
 #: model_terms:ir.ui.view,arch_db:openeducat_admission.view_op_admission_search
 msgid "Admission Date"
-msgstr "Fecha de admisión"
+msgstr "Fecha de Admisión"
 
 #. module: openeducat_admission
 #: model_terms:ir.ui.view,arch_db:openeducat_admission.view_op_admission_form
 msgid "Admission Detail"
-msgstr "Detalle de admisión"
+msgstr "Detalle de Admisión"
 
 #. module: openeducat_admission
 #: model:ir.model.fields.selection,name:openeducat_admission.selection__op_admission_register__state__admission
 msgid "Admission Process"
-msgstr "Proceso de admisión"
+msgstr "Proceso de Admisión"
 
 #. module: openeducat_admission
 #: model:ir.model,name:openeducat_admission.model_op_admission_register
@@ -139,31 +139,31 @@ msgstr "Proceso de admisión"
 #: model_terms:ir.ui.view,arch_db:openeducat_admission.view_op_admission_register_search
 #: model_terms:ir.ui.view,arch_db:openeducat_admission.view_op_admission_register_tree
 msgid "Admission Register"
-msgstr "Registro de admisión"
+msgstr "Registro de Admisión"
 
 #. module: openeducat_admission
 #: model:ir.actions.act_window,name:openeducat_admission.act_open_op_admission_register_view
 #: model:ir.ui.menu,name:openeducat_admission.menu_admission_register
 msgid "Admission Registers"
-msgstr "Registros de admisión"
+msgstr "Registros de Admisión"
 
 #. module: openeducat_admission
 #: model:ir.ui.menu,name:openeducat_admission.menu_admission_analysis
 msgid "Admission Report"
-msgstr "Informe de admisión"
+msgstr "Informe de Admisión"
 
 #. module: openeducat_admission
 #: model:ir.model.fields,field_description:openeducat_admission.field_op_admission_register__admission_ids
 #: model:ir.ui.menu,name:openeducat_admission.menu_op_admission_root
 #: model:ir.ui.menu,name:openeducat_admission.menu_op_admission_submenu
 msgid "Admissions"
-msgstr "admisiones"
+msgstr "Admisiones"
 
 #. module: openeducat_admission
 #: model:ir.model.fields,field_description:openeducat_admission.field_op_admission__application_date
 #: model_terms:ir.ui.view,arch_db:openeducat_admission.view_op_admission_search
 msgid "Application Date"
-msgstr "Fecha de aplicacion"
+msgstr "Fecha de Solicitud"
 
 #. module: openeducat_admission
 #: code:addons/openeducat_admission/models/admission.py:0
@@ -540,7 +540,7 @@ msgstr "Masculino"
 #. module: openeducat_admission
 #: model:ir.model.fields,field_description:openeducat_admission.field_op_admission_register__max_count
 msgid "Maximum No. of Admission"
-msgstr "Nº máximo de Admisión"
+msgstr "Nº máximo de Admisiones"
 
 #. module: openeducat_admission
 #: model:ir.model.fields,field_description:openeducat_admission.field_op_admission__message_has_error
@@ -569,12 +569,12 @@ msgstr "La entrada Min no puede ser mayor que Max Admisión"
 #. module: openeducat_admission
 #: model:ir.model.fields,field_description:openeducat_admission.field_op_admission_register__min_count
 msgid "Minimum No. of Admission"
-msgstr "Mínimo No. de Admisión"
+msgstr "Mínimo No. de Admisiones"
 
 #. module: openeducat_admission
 #: model:ir.model.fields,field_description:openeducat_admission.field_op_admission_register__minimum_age_criteria
 msgid "Minimum Required Age(Years)"
-msgstr "Edad mínima requerida (años)"
+msgstr "Edad mínima requerida(años)"
 
 #. module: openeducat_admission
 #: model:ir.model.fields,field_description:openeducat_admission.field_op_admission__mobile
@@ -629,7 +629,7 @@ msgstr "Nº de Admisión debe ser positivo!"
 #: code:addons/openeducat_admission/models/admission.py:0
 #, python-format
 msgid "Not Eligible for Admission minimum required age is : %s "
-msgstr "No admitido para admisión. La mínima edad requerida es : %s "
+msgstr "No admitido para Admisión. La mínima edad requerida es : %s "
 
 #. module: openeducat_admission
 #: model:ir.model.fields,field_description:openeducat_admission.field_op_admission__message_needaction_counter
