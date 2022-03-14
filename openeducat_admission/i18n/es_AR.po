@@ -157,7 +157,7 @@ msgstr "Informe de Admisión"
 #: model:ir.ui.menu,name:openeducat_admission.menu_op_admission_root
 #: model:ir.ui.menu,name:openeducat_admission.menu_op_admission_submenu
 msgid "Admissions"
-msgstr "Admisiones"
+msgstr "Ingresos"
 
 #. module: openeducat_admission
 #: model:ir.model.fields,field_description:openeducat_admission.field_op_admission__application_date
@@ -486,7 +486,7 @@ msgstr "Si se encuentra marcado, algunos mensajes tienen error de envío."
 #: code:addons/openeducat_admission/models/admission.py:0
 #, python-format
 msgid "Import Template for Admission"
-msgstr "Impartar Plantilla para Admisiones"
+msgstr "Importar Plantilla para Admisiones"
 
 #. module: openeducat_admission
 #: model:ir.model.fields,field_description:openeducat_admission.field_op_admission__is_student
@@ -850,7 +850,7 @@ msgstr "Presentado"
 #. module: openeducat_admission
 #: model:ir.model.fields,field_description:openeducat_admission.field_op_admission_register__academic_term_id
 msgid "Terms"
-msgstr ""
+msgstr "Período"
 
 #. module: openeducat_admission
 #: code:addons/openeducat_admission/models/admission.py:0
