@@ -1090,6 +1090,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:openeducat_core.field_op_batch__display_name
 #: model:ir.model.fields,field_description:openeducat_core.field_op_category__display_name
 #: model:ir.model.fields,field_description:openeducat_core.field_op_course__display_name
+#: model:ir.model.fields,field_description:openeducat_core.field_op_department__display_name
 #: model:ir.model.fields,field_description:openeducat_core.field_op_faculty__display_name
 #: model:ir.model.fields,field_description:openeducat_core.field_op_student__display_name
 #: model:ir.model.fields,field_description:openeducat_core.field_op_student_course__display_name
