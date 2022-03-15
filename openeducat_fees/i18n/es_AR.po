@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 15.0-20220314\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-03-15 19:01+0000\n"
-"PO-Revision-Date: 2022-03-15 16:32-0300\n"
+"PO-Revision-Date: 2022-03-15 16:54-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -148,53 +148,53 @@ msgstr "Días de Vencimiento"
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_fees_terms_line__fees_id
 msgid "Fees"
-msgstr "Cuotas"
+msgstr "Cargos"
 
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_student_fees_details__amount
 msgid "Fees Amount"
-msgstr "Monto Cuota"
+msgstr "Monto Cargos"
 
 #. module: openeducat_fees
 #: model:ir.ui.menu,name:openeducat_fees.menu_op_fees_analysis_report_main
 msgid "Fees Analysis"
-msgstr "Análisis de Cuotas"
+msgstr "Análisis de Cargos"
 
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_student__fees_detail_ids
 msgid "Fees Collection Details"
-msgstr "Detalles de Cobranza de Cuotas"
+msgstr "Detalles de Cobranza de Cargos"
 
 #. module: openeducat_fees
 #: model:ir.actions.report,name:openeducat_fees.action_report_fees_detail_analysis
 msgid "Fees Detail Analysi"
-msgstr "Análisis del detalle de Cuotas"
+msgstr "Análisis del detalle de Cargos"
 
 #. module: openeducat_fees
 #: model_terms:ir.ui.view,arch_db:openeducat_fees.fees_detail_report_wizard_form
 #: model_terms:ir.ui.view,arch_db:openeducat_fees.view_op_student_form_fees_inherit
 msgid "Fees Details"
-msgstr "Detalles de Cuotas"
+msgstr "Detalles de Cargos"
 
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_student__fees_details_count
 msgid "Fees Details Count"
-msgstr "Cantidad de Detalles de Cuotas"
+msgstr "Cantidad de Detalles de Cargos"
 
 #. module: openeducat_fees
 #: model:ir.model,name:openeducat_fees.model_op_fees_terms_line
 msgid "Fees Details Line"
-msgstr "Linea de Detalle de Cuotas"
+msgstr "Linea de Detalle de Cargos"
 
 #. module: openeducat_fees
 #: model:ir.actions.act_window,name:openeducat_fees.fees_detail_report_wizard_act
 msgid "Fees Details Report"
-msgstr "Inform de Detalles de Cuotas"
+msgstr "Informs de Detalles de Cargos"
 
 #. module: openeducat_fees
 #: model:ir.model,name:openeducat_fees.model_op_fees_element
 msgid "Fees Element for course"
-msgstr "Elementos de Cuota por Carrera/Curso"
+msgstr "Elementos de Cargos por Carrera/Curso"
 
 #. module: openeducat_fees
 #: model:ir.actions.act_window,name:openeducat_fees.act_op_fees_element_view
@@ -202,50 +202,50 @@ msgstr "Elementos de Cuota por Carrera/Curso"
 #: model_terms:ir.ui.view,arch_db:openeducat_fees.op_fees_element_form_1
 #: model_terms:ir.ui.view,arch_db:openeducat_fees.op_fees_element_tree_1
 msgid "Fees Elements"
-msgstr "Elementos de Cuotas"
+msgstr "Elementos del Cargo"
 
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_student_fees_details__fees_factor
 msgid "Fees Factor"
-msgstr "Factor de Cuotas"
+msgstr "Factor del Cargo"
 
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_fees_detail_report_wizard__fees_filter
 msgid "Fees Filter"
-msgstr "Filtro de Cuotas"
+msgstr "Filtro de Cargos"
 
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_student_fees_details__fees_line_id
 msgid "Fees Line"
-msgstr "Linea de Cuotas"
+msgstr "Linea de Cargos"
 
 #. module: openeducat_fees
 #: model_terms:ir.ui.view,arch_db:openeducat_fees.view_fees_terms_form
 #: model_terms:ir.ui.view,arch_db:openeducat_fees.view_fees_terms_search
 #: model_terms:ir.ui.view,arch_db:openeducat_fees.view_fees_terms_tree
 msgid "Fees Reminder Terms"
-msgstr "Términos del recordatorio de Cuotas"
+msgstr "Términos del recordatorio de Cargos"
 
 #. module: openeducat_fees
 #: model:ir.model,name:openeducat_fees.model_report_openeducat_fees_report_fees_analysis
 msgid "Fees Report"
-msgstr "Informe de Cuotas"
+msgstr "Informe de Cargos"
 
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_student_course__fees_start_date
 msgid "Fees Start Date"
-msgstr "Fecha Inicial de Cuotas"
+msgstr "Fecha Inicial de Cargo"
 
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_course__fees_term_id
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_student_course__fees_term_id
 msgid "Fees Term"
-msgstr "Períodos de Cuotas"
+msgstr "Componentes del Cargo"
 
 #. module: openeducat_fees
 #: model_terms:ir.ui.view,arch_db:openeducat_fees.view_fees_terms_form
 msgid "Fees Term Line"
-msgstr "Lineas de Períodos de Cuota"
+msgstr "Lineas de Componentes del Cargo"
 
 #. module: openeducat_fees
 #: model:ir.actions.act_window,name:openeducat_fees.act_open_fees_terms_view
@@ -253,34 +253,34 @@ msgstr "Lineas de Períodos de Cuota"
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_fees_terms__name
 #: model:ir.ui.menu,name:openeducat_fees.menu_fees_terms
 msgid "Fees Terms"
-msgstr "Períodos de Cuota"
+msgstr "Componentes del Cargo"
 
 #. module: openeducat_fees
 #: model:ir.model,name:openeducat_fees.model_op_fees_terms
 msgid "Fees Terms For Course"
-msgstr "Períodos de Cuotas por Carrera/Curso"
+msgstr "Componentes del Cargo por Carrera/Curso"
 
 #. module: openeducat_fees
 #: code:addons/openeducat_fees/models/fees_terms.py:0
 #, python-format
 msgid "Fees Terms must be Required!"
-msgstr "Los Períodos de Cuotas son requeridos!"
+msgstr "Los Componentes del Cargo son requeridos!"
 
 #. module: openeducat_fees
 #: code:addons/openeducat_fees/models/fees_terms.py:0
 #, python-format
 msgid "Fees terms must be divided as such sum up in 100%"
-msgstr "La suma de todos los períodos de Cuotas deben sumar 100%"
+msgstr "La suma de todos los componentes del cargo deben sumar 100%"
 
 #. module: openeducat_fees
 #: model:ir.model.fields.selection,name:openeducat_fees.selection__op_fees_terms__fees_terms__fixed_date
 msgid "Fixed Fees of Dates"
-msgstr "Fechas de las Cuotas Fijas"
+msgstr "Cargos a Fecha Fija"
 
 #. module: openeducat_fees
 #: model:ir.model.fields.selection,name:openeducat_fees.selection__op_fees_terms__fees_terms__fixed_days
 msgid "Fixed Fees of Days"
-msgstr "Fechas de las Cuotas Fijas"
+msgstr "Cargos a Fecha Fija"
 
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_fees_terms__message_follower_ids
@@ -486,13 +486,13 @@ msgstr "Sometido el"
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_fees_terms__fees_terms
 msgid "Term Type"
-msgstr "Tipo de Período"
+msgstr "Componente del Cargo"
 
 #. module: openeducat_fees
 #: model:ir.model.fields,field_description:openeducat_fees.field_op_fees_terms__line_ids
 #: model_terms:ir.ui.view,arch_db:openeducat_fees.view_fees_terms_form
 msgid "Terms"
-msgstr "Períodos"
+msgstr "Componentes"
 
 #. module: openeducat_fees
 #: code:addons/openeducat_fees/models/student.py:0
