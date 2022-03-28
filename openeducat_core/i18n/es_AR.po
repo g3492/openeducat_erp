@@ -2508,7 +2508,7 @@ msgstr "Oportunidad"
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_student__gender__o
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_subject__type__other
 msgid "Other"
-msgstr "Otro"
+msgstr "Cuatrimestral por Final"
 
 #. module: openeducat_core
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_academic_year__term_structure__others
