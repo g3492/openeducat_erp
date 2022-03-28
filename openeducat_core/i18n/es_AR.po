@@ -569,7 +569,7 @@ msgstr "Certificado de Estudios"
 #. module: openeducat_core
 #: selection:op.subject,type:0
 msgid "Both"
-msgstr "Ambos"
+msgstr "Cuatrimestral por Promoción"
 
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_faculty__message_bounce
@@ -1415,7 +1415,7 @@ msgstr ""
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_subject__grade_weightage
 msgid "Grade Weightage"
-msgstr "Creditos para titulo"
+msgstr "Horas Cátedra"
 
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_openeducat_grading
@@ -2407,7 +2407,7 @@ msgstr "O+"
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_faculty__blood_group__o-
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_student__blood_group__o-
 msgid "O-ve"
-msgstr ""
+msgstr "O-"
 
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_openeducat_online_admission
@@ -2506,9 +2506,13 @@ msgstr "Oportunidad"
 
 #. module: openeducat_core
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_student__gender__o
-#: model:ir.model.fields.selection,name:openeducat_core.selection__op_subject__type__other
 msgid "Other"
 msgstr "Otro"
+
+#. module: openeducat_core
+#: model:ir.model.fields.selection,name:openeducat_core.selection__op_subject__type__other
+msgid "Other"
+msgstr "Cuatrimestral por Final"
 
 #. module: openeducat_core
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_academic_year__term_structure__others
@@ -2518,7 +2522,7 @@ msgstr "Otro (términos que se solapan, horarios especiales"
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_openeducat_parent
 msgid "Parent"
-msgstr ""
+msgstr "Padres"
 
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_course__parent_id
@@ -2529,7 +2533,7 @@ msgstr "Curso para padres"
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_department__parent_id
 msgid "Parent Department"
-msgstr "Departamento Padre"
+msgstr "Departamento Padres"
 
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_openeducat_parent_enterprise
@@ -2610,7 +2614,7 @@ msgstr ""
 #. module: openeducat_core
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_subject__type__practical
 msgid "Practical"
-msgstr "Práctico"
+msgstr "Anual por Final"
 
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_faculty__property_product_pricelist
@@ -3030,7 +3034,7 @@ msgstr "Detalles de la Registración a la Materia"
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_subject__subject_type
 msgid "Subject Type"
-msgstr "Tipo de Materia"
+msgstr "Obligatoriedad"
 
 #. module: openeducat_core
 #: model_terms:ir.ui.view,arch_db:openeducat_core.view_subject_registration_graph
@@ -3061,7 +3065,7 @@ msgstr "Enviar"
 #. module: openeducat_core
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_subject_registration__state__submitted
 msgid "Submitted"
-msgstr ""
+msgstr "Enviado"
 
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_faculty__supplier_rank
@@ -3131,7 +3135,7 @@ msgstr ""
 #. module: openeducat_core
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_subject__type__theory
 msgid "Theory"
-msgstr "Teoría"
+msgstr "Anual por Promoción"
 
 #. module: openeducat_core
 #: model:ir.model.fields,help:openeducat_core.field_op_faculty__property_account_payable_id
