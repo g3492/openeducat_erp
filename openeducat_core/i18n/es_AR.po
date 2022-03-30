@@ -569,7 +569,7 @@ msgstr "Certificado de Estudios"
 #. module: openeducat_core
 #: selection:op.subject,type:0
 msgid "Both"
-msgstr "Cuatrimestral por Promoción"
+msgstr "Ambas"
 
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_faculty__message_bounce
@@ -2508,7 +2508,7 @@ msgstr "Oportunidad"
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_student__gender__o
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_subject__type__other
 msgid "Other"
-msgstr "Cuatrimestral por Final"
+msgstr "Otro"
 
 #. module: openeducat_core
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_academic_year__term_structure__others
@@ -2610,7 +2610,7 @@ msgstr ""
 #. module: openeducat_core
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_subject__type__practical
 msgid "Practical"
-msgstr "Anual por Final"
+msgstr "Práctica"
 
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_faculty__property_product_pricelist
@@ -3131,7 +3131,7 @@ msgstr ""
 #. module: openeducat_core
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_subject__type__theory
 msgid "Theory"
-msgstr "Anual por Promoción"
+msgstr "Teoría"
 
 #. module: openeducat_core
 #: model:ir.model.fields,help:openeducat_core.field_op_faculty__property_account_payable_id
