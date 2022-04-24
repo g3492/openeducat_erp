@@ -777,7 +777,7 @@ msgstr "Dirección completa"
 #. module: openeducat_core
 #: model:ir.model.fields.selection,name:openeducat_core.selection__op_subject__subject_type__compulsory
 msgid "Compulsory"
-msgstr "Obligatorio"
+msgstr "Obligatoria"
 
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_subject_registration__compulsory_subject_ids
@@ -1415,7 +1415,7 @@ msgstr ""
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_op_subject__grade_weightage
 msgid "Grade Weightage"
-msgstr "Horas Cátedra"
+msgstr "Créditos"
 
 #. module: openeducat_core
 #: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_openeducat_grading
